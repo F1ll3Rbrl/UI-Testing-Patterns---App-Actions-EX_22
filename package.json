@@ -1,0 +1,14 @@
+{
+  "name": "cy-app",
+  "version": "1.0.0",
+  "description": "Ex Add Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "F1ll3Rbrl",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.8.1"
+  }
+}
